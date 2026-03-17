@@ -1,0 +1,21 @@
+{
+  "name": "javascropt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node --watch index.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
