@@ -16,8 +16,3 @@ A professional, production-ready backend module for user authentication and auth
 * **Security**: JSON Web Tokens (JWT)
 * **Database Concepts**: In-memory storage (simulating MongoDB/MySQL logic) 
 * **Tools**: Git & GitHub for version control 
-
-## 📥 Installation & Setup
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/nodejs-jwt-auth-api.git](https://github.com/YourUsername/nodejs-jwt-auth-api.git)
